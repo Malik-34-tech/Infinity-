@@ -1,4 +1,5 @@
 <resources>
+    <string name="developer_name">MALIK Bilal 34</string>
     <string name="app_name">Infinity</string>
     <string name="video_directory">Video folder</string>
     <string name="extract_audio">Save as audio</string>
